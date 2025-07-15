@@ -1,0 +1,2 @@
+main.o: main.cc utilities.h
+utilities.o: utilities.cc utilities.h
